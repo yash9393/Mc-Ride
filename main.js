@@ -10,6 +10,7 @@ menu.onscroll = () => {
     navbar.classList.remove('active');
 }
 
+
 const sr=ScrollReveal({
     distance: '60px' ,
     duration: 2500,
